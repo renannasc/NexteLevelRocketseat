@@ -62,9 +62,9 @@ npm install nodemon -> monitoramento de alterações realizados no json
 
 Inicie o ambiente de desenvolvimento, em seguida,  navegue em um navegador para o endereço (http: // localhost: 8080):
 
-````
+```````````````
 npm run start
-````
+```````````````
 ## <a id="faq"></a> FAQ
 
 <b>Pergunta:</b> Quais são as tecnologias usadas neste projeto?
