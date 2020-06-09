@@ -9,20 +9,20 @@ web e vai conhecer o caminho para acelerar na direção dos seus objetivos.</blo
 
 <h3 align="center">Home do Site</h3>
 <p align="center">
-   <a target="_blank" rel="Ecoleta" href="https://github.com/Rocketseat"><img src="/public/wallpapers/projetofinal.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="Ecoleta" href="https://github.com/Rocketseat"><img src="public/wallpapers/projetofinal.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 </p>
 
 <h3 align="center">Pagina de Cadastro</h3>
 <p align="center">
-   <a target="_blank" rel="PageCadastro" href="https://github.com/Rocketseat"><img src="/public/wallpapers/paginaDeCadastro.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="PageCadastro" href="https://github.com/Rocketseat"><img src="public/wallpapers/paginaDeCadastro.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 
 <h3 align="center">Pesquisa</h3>
 <p align="center">
-   <a target="_blank" rel="Search-Results" href="https://github.com/Rocketseat"><img src="/public/wallpapers/search.jpg" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="Search-Results" href="https://github.com/Rocketseat"><img src="public/wallpapers/search.jpg" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 
 <h3 align="center">Resultado da Pesquisa</h3>
 <p align="center">
-   <a target="_blank" rel="Search-Results" href="https://github.com/Rocketseat"><img src="/public/wallpapers/search-results.jpg" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="Search-Results" href="https://github.com/Rocketseat"><img src="public/wallpapers/search-results.jpg" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 
 
 
