@@ -1,23 +1,23 @@
 const express = require("express")
 const server = express()
 const db = require("./database/db.js")
-// Configurando a pasta public
 
+// Configurando a pasta public
 server.use(express.static("public"))
 
 //habilitar o uso do req.body
 server.use(express.urlencoded({ extended: true }))
 
-//Utilizando template engine
+//Template engine
 const nunjucks = require("nunjucks")
 nunjucks.configure("src/views", {
     express: server,
-    noCache: true //tira coisas antigas que estão guardadas
+    noCache: true 
 
 })
-// Configurando caminhos da aplicação
-//página inical
 
+// Rotas da aplicação
+//página inical
 server.get("/", (req, res) => {
    return res.render("index.html")
        
@@ -85,7 +85,7 @@ server.get("/search", (req, res) => {
 
 
 
-   // pegando os dados da db
+   // pegando os dados do db
    db.all(`SELECT * FROM places WHERE city LIKE '%${search}%'`, function(err, rows){
             if(err){
               return console.log(err)
@@ -97,5 +97,5 @@ server.get("/search", (req, res) => {
       })   
  })
 
-// Ligar o servidor
+// Ligando o servidor
 server.listen(3000)
