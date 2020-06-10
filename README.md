@@ -60,10 +60,10 @@ npm install nodemon -> monitoramento de alterações realizados no json
 
 <b> Executando o projeto</b>
 
-Inicie o ambiente de desenvolvimento, em seguida,  navegue em um navegador para o endereço (http: // localhost: 8080):
+Para iniciar o servidor rode o seguinte comando abaixo, e em um navegador de sua preferencia acesse o endereço (http://localhost:3000/)
 
 ```````````````
-npm run start
+npm start
 ```````````````
 ## <a id="faq"></a> FAQ
 
